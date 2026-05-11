@@ -1,16 +1,16 @@
 {
-  "updatedAt": "11/05/2026 18:22:02",
+  "updatedAt": "11/05/2026 18:52:02",
   "seasonKey": "2026_05",
   "season": [
     {"name": "ghost", "exp": 70530265, "class": 9, "level": 73},
     {"name": "Ghostman", "exp": 35209806, "class": 7, "level": 99},
     {"name": "Lolex", "exp": 11254559, "class": 7, "level": 99},
     {"name": "Sword", "exp": 2602629, "class": 6, "level": 80},
+    {"name": "Aventureiro", "exp": 240041, "class": 9, "level": 92},
     {"name": "Lolex69", "exp": 42347, "class": 12, "level": 85},
     {"name": "Necrosyy", "exp": 2126, "class": 1, "level": 4},
     {"name": "elmooo", "exp": 1530, "class": 1, "level": 4},
-    {"name": "Toki", "exp": 1448, "class": 2, "level": 4},
-    {"name": "Aventureiro", "exp": 404, "class": 9, "level": 92}
+    {"name": "Toki", "exp": 1448, "class": 2, "level": 4}
   ],
   "allTime": [
 
