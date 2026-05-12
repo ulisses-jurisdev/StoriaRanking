@@ -1,5 +1,5 @@
 {
-  "updatedAt": "12/05/2026 13:22:54",
+  "updatedAt": "12/05/2026 13:52:54",
   "seasonKey": "2026_05",
   "season": [
     {"name": "ghost", "exp": 70530265, "class": 9, "level": 73},
@@ -12,7 +12,8 @@
     {"name": "Lolex69", "exp": 42347, "class": 12, "level": 85},
     {"name": "Necrosyy", "exp": 4038, "class": 1, "level": 6},
     {"name": "elmooo", "exp": 1530, "class": 1, "level": 4},
-    {"name": "Toki", "exp": 1448, "class": 2, "level": 4}
+    {"name": "Toki", "exp": 1448, "class": 2, "level": 4},
+    {"name": "KomiKu", "exp": 280, "class": 1, "level": 2}
   ],
   "allTime": [
 
