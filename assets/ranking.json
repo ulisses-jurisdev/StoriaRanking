@@ -1,9 +1,9 @@
 {
-  "updatedAt": "17/05/2026 15:12:56",
+  "updatedAt": "17/05/2026 15:42:57",
   "seasonKey": "2026_05",
   "season": [
     {"name": "ghost", "exp": 78839688, "class": 9, "level": 74},
-    {"name": "Ghostman", "exp": 44088523, "class": 7, "level": 99},
+    {"name": "Ghostman", "exp": 44234623, "class": 7, "level": 99},
     {"name": "Lolex", "exp": 11254559, "class": 7, "level": 99},
     {"name": "GLITS", "exp": 6109182, "class": 6, "level": 95},
     {"name": "Sword", "exp": 2602629, "class": 6, "level": 80},
@@ -16,6 +16,7 @@
     {"name": "Necrosyy", "exp": 4038, "class": 1, "level": 6},
     {"name": "O_Padriin", "exp": 2331, "class": 11, "level": 6},
     {"name": "Toki", "exp": 1448, "class": 2, "level": 4},
+    {"name": "MageCliff", "exp": 960, "class": 2, "level": 3},
     {"name": "gbzin1234123", "exp": 280, "class": 1, "level": 1},
     {"name": "KomiKu", "exp": 280, "class": 1, "level": 2}
   ],
