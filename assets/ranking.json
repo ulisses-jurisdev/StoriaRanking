@@ -1,9 +1,9 @@
 {
-  "updatedAt": "18/05/2026 21:13:28",
+  "updatedAt": "18/05/2026 21:43:28",
   "seasonKey": "2026_05",
   "season": [
     {"name": "ghost", "exp": 78839688, "class": 9, "level": 74},
-    {"name": "Ghostman", "exp": 44682184, "class": 7, "level": 99},
+    {"name": "Ghostman", "exp": 44973663, "class": 7, "level": 99},
     {"name": "Lolex", "exp": 11254559, "class": 7, "level": 99},
     {"name": "GLITS", "exp": 6109182, "class": 6, "level": 95},
     {"name": "Sword", "exp": 2602629, "class": 6, "level": 80},
