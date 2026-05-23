@@ -1,5 +1,5 @@
 {
-  "updatedAt": "23/05/2026 15:45:36",
+  "updatedAt": "23/05/2026 16:15:37",
   "seasonKey": "2026_05",
   "season": [
     {"name": "ghost", "exp": 78839688, "class": 9, "level": 74},
@@ -20,6 +20,7 @@
     {"name": "O_Padriin", "exp": 2331, "class": 11, "level": 6},
     {"name": "Toki", "exp": 1448, "class": 2, "level": 4},
     {"name": "TM_Opera_O", "exp": 820, "class": 1, "level": 3},
+    {"name": "Pirone", "exp": 320, "class": 1, "level": 2},
     {"name": "gbzin1234123", "exp": 280, "class": 1, "level": 1},
     {"name": "KomiKu", "exp": 280, "class": 1, "level": 2}
   ],
