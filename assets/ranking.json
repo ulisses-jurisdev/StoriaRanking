@@ -1,5 +1,5 @@
 {
-  "updatedAt": "30/05/2026 06:26:52",
+  "updatedAt": "30/05/2026 06:56:52",
   "seasonKey": "2026_05",
   "season": [
     {"name": "ghost", "exp": 78839688, "class": 9, "level": 74},
@@ -17,10 +17,10 @@
     {"name": "Sora", "exp": 13954, "class": 2, "level": 20},
     {"name": "Babavoos", "exp": 13154, "class": 1, "level": 8},
     {"name": "Necrosyy", "exp": 4038, "class": 1, "level": 6},
+    {"name": "NotPuro", "exp": 3586, "class": 11, "level": 5},
     {"name": "O_Padriin", "exp": 2331, "class": 11, "level": 6},
     {"name": "Toki", "exp": 1448, "class": 2, "level": 4},
     {"name": "TM_Opera_O", "exp": 820, "class": 1, "level": 3},
-    {"name": "NotPuro", "exp": 637, "class": 11, "level": 3},
     {"name": "ajudanoob", "exp": 564, "class": 3, "level": 18},
     {"name": "Pirone", "exp": 320, "class": 1, "level": 2},
     {"name": "gbzin1234123", "exp": 280, "class": 1, "level": 1},
