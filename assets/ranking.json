@@ -1,5 +1,5 @@
 {
-  "updatedAt": "31/05/2026 22:59:33",
+  "updatedAt": "31/05/2026 23:29:35",
   "seasonKey": "2026_05",
   "season": [
     {"name": "Lolex", "exp": 277211618, "class": 7, "level": 110},
@@ -13,6 +13,7 @@
     {"name": "Link", "exp": 82741, "class": 1, "level": 14},
     {"name": "MageCliff", "exp": 70469, "class": 2, "level": 13},
     {"name": "Lolex69", "exp": 42347, "class": 12, "level": 85},
+    {"name": "Neto", "exp": 33798, "class": 4, "level": 11},
     {"name": "elmooo", "exp": 14757, "class": 1, "level": 9},
     {"name": "Sora", "exp": 13954, "class": 2, "level": 20},
     {"name": "Babavoos", "exp": 13154, "class": 1, "level": 8},
@@ -21,7 +22,6 @@
     {"name": "Dodis", "exp": 2765, "class": 2, "level": 5},
     {"name": "O_Padriin", "exp": 2331, "class": 11, "level": 6},
     {"name": "Toki", "exp": 1448, "class": 2, "level": 4},
-    {"name": "Neto", "exp": 1050, "class": 4, "level": 3},
     {"name": "TM_Opera_O", "exp": 820, "class": 1, "level": 3},
     {"name": "ajudanoob", "exp": 564, "class": 3, "level": 18},
     {"name": "Pirone", "exp": 320, "class": 1, "level": 2},
