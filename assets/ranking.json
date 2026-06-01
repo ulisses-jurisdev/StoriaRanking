@@ -1,8 +1,9 @@
 {
-  "updatedAt": "01/06/2026 18:28:25",
+  "updatedAt": "01/06/2026 18:58:27",
   "seasonKey": "2026_06",
   "season": [
     {"name": "Ghostman", "exp": 65861946, "class": 7, "level": 109},
+    {"name": "Lolex", "exp": 434441, "class": 7, "level": 110},
     {"name": "Neto", "exp": 75922, "class": 4, "level": 16},
     {"name": "Asuraa", "exp": 140, "class": 1, "level": 1},
     {"name": "Yukii", "exp": 60, "class": 1, "level": 1}
