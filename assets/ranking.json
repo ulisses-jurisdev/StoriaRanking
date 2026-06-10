@@ -1,5 +1,5 @@
 {
-  "updatedAt": "10/06/2026 11:36:52",
+  "updatedAt": "10/06/2026 12:06:52",
   "seasonKey": "2026_06",
   "season": [
     {"name": "Ghostman", "exp": 542351666, "class": 7, "level": 116},
@@ -19,6 +19,7 @@
     {"name": "AvelarGaming", "exp": 1280, "class": 1, "level": 4},
     {"name": "Cazz", "exp": 720, "class": 4, "level": 3},
     {"name": "ADalDegan", "exp": 680, "class": 1, "level": 3},
+    {"name": "PabloOn", "exp": 454, "class": 4, "level": 2},
     {"name": "lisa", "exp": 340, "class": 2, "level": 2},
     {"name": "Yukii", "exp": 217, "class": 1, "level": 1},
     {"name": "Asuraa", "exp": 140, "class": 1, "level": 1}
