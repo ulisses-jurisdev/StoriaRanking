@@ -1,13 +1,13 @@
 {
-  "updatedAt": "14/06/2026 22:02:45",
+  "updatedAt": "14/06/2026 22:32:45",
   "seasonKey": "2026_06",
   "season": [
     {"name": "Ghostman", "exp": 542351666, "class": 7, "level": 116},
     {"name": "Arween", "exp": 87349944, "class": 9, "level": 68},
     {"name": "Lolex", "exp": 31262712, "class": 7, "level": 110},
-    {"name": "Nightingale", "exp": 15355667, "class": 8, "level": 49},
+    {"name": "Nightingale", "exp": 15443851, "class": 8, "level": 49},
     {"name": "Merchan", "exp": 14986793, "class": 12, "level": 49},
-    {"name": "Mithrandir", "exp": 14718806, "class": 7, "level": 49},
+    {"name": "Mithrandir", "exp": 14831602, "class": 7, "level": 49},
     {"name": "kudecobra", "exp": 6961091, "class": 4, "level": 45},
     {"name": "Sabormag0", "exp": 1009253, "class": 6, "level": 94},
     {"name": "ghost", "exp": 262795, "class": 9, "level": 74},
