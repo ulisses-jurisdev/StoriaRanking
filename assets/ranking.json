@@ -1,5 +1,5 @@
 {
-  "updatedAt": "16/06/2026 12:33:26",
+  "updatedAt": "16/06/2026 13:03:27",
   "seasonKey": "2026_06",
   "season": [
     {"name": "Ghostman", "exp": 542351666, "class": 7, "level": 116},
@@ -33,7 +33,8 @@
     {"name": "lisa", "exp": 340, "class": 2, "level": 2},
     {"name": "koreia", "exp": 281, "class": 1, "level": 10},
     {"name": "Yukii", "exp": 217, "class": 1, "level": 1},
-    {"name": "Asuraa", "exp": 140, "class": 1, "level": 1}
+    {"name": "Asuraa", "exp": 140, "class": 1, "level": 1},
+    {"name": "munhoS", "exp": 83, "class": 2, "level": 15}
   ],
   "allTime": [
     {"name": "Lolex", "points": 50},
