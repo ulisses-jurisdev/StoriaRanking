@@ -1,5 +1,5 @@
 {
-  "updatedAt": "23/06/2026 10:52:27",
+  "updatedAt": "23/06/2026 11:22:27",
   "seasonKey": "2026_06",
   "season": [
     {"name": "Ghostman", "exp": 542351666, "class": 7, "level": 116},
@@ -26,6 +26,7 @@
     {"name": "Darkwarden", "exp": 17574, "class": 4, "level": 10},
     {"name": "Bazin", "exp": 11130, "class": 1, "level": 8},
     {"name": "Carlaobap", "exp": 8298, "class": 1, "level": 7},
+    {"name": "Twoopz", "exp": 2371, "class": 4, "level": 5},
     {"name": "Yui", "exp": 1462, "class": 3, "level": 4},
     {"name": "Bonis", "exp": 1360, "class": 1, "level": 4},
     {"name": "AvelarGaming", "exp": 1280, "class": 1, "level": 4},
