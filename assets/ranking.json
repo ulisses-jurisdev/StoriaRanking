@@ -1,5 +1,5 @@
 {
-  "updatedAt": "23/06/2026 01:22:17",
+  "updatedAt": "23/06/2026 01:52:17",
   "seasonKey": "2026_06",
   "season": [
     {"name": "Ghostman", "exp": 542351666, "class": 7, "level": 116},
@@ -11,6 +11,7 @@
     {"name": "Asuna", "exp": 17091230, "class": 6, "level": 50},
     {"name": "kudecobra", "exp": 6961091, "class": 4, "level": 45},
     {"name": "Sabormag0", "exp": 1009253, "class": 6, "level": 94},
+    {"name": "Ordinario", "exp": 690326, "class": 6, "level": 71},
     {"name": "GLITS", "exp": 370349, "class": 6, "level": 96},
     {"name": "ghost", "exp": 262795, "class": 9, "level": 74},
     {"name": "MeiaNoite", "exp": 94600, "class": 1, "level": 41},
