@@ -1,5 +1,5 @@
 {
-  "updatedAt": "27/06/2026 02:29:48",
+  "updatedAt": "27/06/2026 02:59:49",
   "seasonKey": "2026_06",
   "season": [
     {"name": "Ghostman", "exp": 741326457, "class": 7, "level": 118},
@@ -23,10 +23,11 @@
     {"name": "Carlaobap1", "exp": 45692, "class": 2, "level": 12},
     {"name": "patolino", "exp": 38417, "class": 1, "level": 11},
     {"name": "PabloOn", "exp": 38261, "class": 4, "level": 11},
+    {"name": "ThewiseBR", "exp": 37279, "class": 4, "level": 12},
     {"name": "Darkwarden", "exp": 17574, "class": 4, "level": 10},
     {"name": "Bazin", "exp": 11130, "class": 1, "level": 8},
-    {"name": "ThewiseBR", "exp": 10506, "class": 4, "level": 9},
     {"name": "Carlaobap", "exp": 8298, "class": 1, "level": 7},
+    {"name": "ThewiseBRZ", "exp": 3674, "class": 2, "level": 6},
     {"name": "Twoopz", "exp": 2371, "class": 4, "level": 5},
     {"name": "Yui", "exp": 1462, "class": 3, "level": 4},
     {"name": "Bonis", "exp": 1360, "class": 1, "level": 4},
