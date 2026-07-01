@@ -1,9 +1,9 @@
 {
-  "updatedAt": "01/07/2026 00:16:11",
+  "updatedAt": "01/07/2026 00:46:12",
   "seasonKey": "2026_07",
   "season": [
-    {"name": "Arween", "exp": 230667, "class": 9, "level": 70},
-    {"name": "Mithrandir", "exp": 126485, "class": 7, "level": 110}
+    {"name": "Mithrandir", "exp": 9699133, "class": 7, "level": 110},
+    {"name": "Arween", "exp": 440321, "class": 9, "level": 70}
   ],
   "allTime": [
     {"name": "Ghostman", "points": 98},
