@@ -1,10 +1,10 @@
 {
-  "updatedAt": "02/07/2026 13:17:25",
+  "updatedAt": "02/07/2026 13:47:26",
   "seasonKey": "2026_07",
   "season": [
     {"name": "Mithrandir", "exp": 107314040, "class": 7, "level": 112},
-    {"name": "Arween", "exp": 98224279, "class": 9, "level": 81},
-    {"name": "Nightingale", "exp": 2714251, "class": 8, "level": 80}
+    {"name": "Arween", "exp": 104595553, "class": 9, "level": 82},
+    {"name": "Nightingale", "exp": 4706937, "class": 8, "level": 80}
   ],
   "allTime": [
     {"name": "Ghostman", "points": 98},
