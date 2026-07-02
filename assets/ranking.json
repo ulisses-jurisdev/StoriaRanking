@@ -1,9 +1,9 @@
 {
-  "updatedAt": "02/07/2026 14:17:26",
+  "updatedAt": "02/07/2026 14:47:27",
   "seasonKey": "2026_07",
   "season": [
+    {"name": "Arween", "exp": 107680827, "class": 9, "level": 82},
     {"name": "Mithrandir", "exp": 107314040, "class": 7, "level": 112},
-    {"name": "Arween", "exp": 104595553, "class": 9, "level": 82},
     {"name": "Nightingale", "exp": 4706937, "class": 8, "level": 80}
   ],
   "allTime": [
