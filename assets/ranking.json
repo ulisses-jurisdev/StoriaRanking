@@ -1,5 +1,5 @@
 {
-  "updatedAt": "04/07/2026 19:05:36",
+  "updatedAt": "04/07/2026 19:35:37",
   "seasonKey": "2026_07",
   "season": [
     {"name": "Mithrandir", "exp": 327521077, "class": 7, "level": 115},
@@ -8,6 +8,7 @@
     {"name": "JanJolao", "exp": 633575, "class": 1, "level": 24},
     {"name": "Asuna", "exp": 321088, "class": 6, "level": 50},
     {"name": "Darkmg", "exp": 2653, "class": 4, "level": 8},
+    {"name": "Kris", "exp": 1701, "class": 1, "level": 4},
     {"name": "Mordus", "exp": 150, "class": 4, "level": 1}
   ],
   "allTime": [
