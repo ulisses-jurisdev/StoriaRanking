@@ -1,11 +1,11 @@
 {
-  "updatedAt": "04/07/2026 03:14:47",
+  "updatedAt": "04/07/2026 03:44:48",
   "seasonKey": "2026_07",
   "season": [
-    {"name": "Mithrandir", "exp": 319131107, "class": 7, "level": 114},
-    {"name": "Arween", "exp": 192101005, "class": 9, "level": 89},
-    {"name": "Nightingale", "exp": 32989673, "class": 8, "level": 83},
-    {"name": "Asuna", "exp": 140128, "class": 6, "level": 50},
+    {"name": "Mithrandir", "exp": 322387883, "class": 7, "level": 115},
+    {"name": "Arween", "exp": 192864430, "class": 9, "level": 89},
+    {"name": "Nightingale", "exp": 33128992, "class": 8, "level": 83},
+    {"name": "Asuna", "exp": 229438, "class": 6, "level": 50},
     {"name": "JanJolao", "exp": 6050, "class": 1, "level": 7},
     {"name": "Darkmg", "exp": 2653, "class": 4, "level": 8},
     {"name": "Mordus", "exp": 150, "class": 4, "level": 1}
