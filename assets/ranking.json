@@ -1,10 +1,10 @@
 {
-  "updatedAt": "04/07/2026 20:05:38",
+  "updatedAt": "04/07/2026 20:35:38",
   "seasonKey": "2026_07",
   "season": [
-    {"name": "Mithrandir", "exp": 336117751, "class": 7, "level": 115},
-    {"name": "Arween", "exp": 193813239, "class": 9, "level": 89},
-    {"name": "Nightingale", "exp": 33266390, "class": 8, "level": 83},
+    {"name": "Mithrandir", "exp": 365728779, "class": 7, "level": 115},
+    {"name": "Arween", "exp": 195340115, "class": 9, "level": 89},
+    {"name": "Nightingale", "exp": 33531515, "class": 8, "level": 83},
     {"name": "JanJolao", "exp": 633575, "class": 1, "level": 24},
     {"name": "Asuna", "exp": 504388, "class": 6, "level": 50},
     {"name": "Kris", "exp": 49716, "class": 1, "level": 12},
