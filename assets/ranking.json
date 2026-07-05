@@ -1,5 +1,5 @@
 {
-  "updatedAt": "05/07/2026 09:36:06",
+  "updatedAt": "05/07/2026 10:06:06",
   "seasonKey": "2026_07",
   "season": [
     {"name": "Mithrandir", "exp": 467503632, "class": 7, "level": 116},
@@ -9,6 +9,7 @@
     {"name": "Buceto", "exp": 687817, "class": 2, "level": 25},
     {"name": "JanJolao", "exp": 633575, "class": 1, "level": 24},
     {"name": "Kris", "exp": 50062, "class": 1, "level": 12},
+    {"name": "NocuCedim", "exp": 6479, "class": 3, "level": 7},
     {"name": "Darkmg", "exp": 2653, "class": 4, "level": 8},
     {"name": "Mordus", "exp": 150, "class": 4, "level": 1}
   ],
