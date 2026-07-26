@@ -1,5 +1,5 @@
 {
-  "updatedAt": "25/07/2026 22:12:20",
+  "updatedAt": "25/07/2026 22:42:20",
   "seasonKey": "2026_07",
   "season": [
     {"name": "Asuna", "exp": 1037978385, "class": 6, "level": 112},
@@ -17,6 +17,7 @@
     {"name": "Reirok", "exp": 5440, "class": 2, "level": 6},
     {"name": "NightDragon", "exp": 4390, "class": 1, "level": 6},
     {"name": "Darkmg", "exp": 2653, "class": 4, "level": 8},
+    {"name": "Abrams", "exp": 675, "class": 4, "level": 3},
     {"name": "Mordus", "exp": 150, "class": 4, "level": 1},
     {"name": "oMequi", "exp": 45, "class": 1, "level": 1}
   ],
