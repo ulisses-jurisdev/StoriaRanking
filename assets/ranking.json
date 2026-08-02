@@ -1,10 +1,11 @@
 {
-  "updatedAt": "02/08/2026 17:18:17",
+  "updatedAt": "02/08/2026 17:48:18",
   "seasonKey": "2026_08",
   "season": [
     {"name": "Asuna", "exp": 33288290, "class": 6, "level": 112},
     {"name": "Mithrandir", "exp": 33236185, "class": 7, "level": 119},
-    {"name": "Nightingale", "exp": 686858, "class": 8, "level": 90}
+    {"name": "Nightingale", "exp": 686858, "class": 8, "level": 90},
+    {"name": "baldezinn", "exp": 645, "class": 1, "level": 3}
   ],
   "allTime": [
     {"name": "Mithrandir", "points": 99},
