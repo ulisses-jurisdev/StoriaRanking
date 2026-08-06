@@ -1,12 +1,12 @@
 {
-  "updatedAt": "06/08/2026 11:19:53",
+  "updatedAt": "06/08/2026 11:49:54",
   "seasonKey": "2026_08",
   "season": [
     {"name": "Asuna", "exp": 65388288, "class": 6, "level": 113},
     {"name": "Mithrandir", "exp": 58865896, "class": 7, "level": 120},
     {"name": "Nightingale", "exp": 686858, "class": 8, "level": 90},
     {"name": "Manel", "exp": 4587, "class": 1, "level": 6},
-    {"name": "Guids", "exp": 1190, "class": 1, "level": 4},
+    {"name": "Guids", "exp": 2858, "class": 1, "level": 5},
     {"name": "baldezinn", "exp": 645, "class": 1, "level": 3}
   ],
   "allTime": [
