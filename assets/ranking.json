@@ -1,14 +1,16 @@
 {
-  "updatedAt": "16/08/2026 18:54:11",
+  "updatedAt": "16/08/2026 19:24:12",
   "seasonKey": "2026_08",
   "season": [
     {"name": "Asuna", "exp": 65388288, "class": 6, "level": 113},
     {"name": "Mithrandir", "exp": 61662382, "class": 7, "level": 120},
     {"name": "Nightingale", "exp": 686858, "class": 8, "level": 90},
     {"name": "Manel", "exp": 4587, "class": 1, "level": 6},
+    {"name": "OldWitcher", "exp": 4028, "class": 1, "level": 6},
     {"name": "Guids", "exp": 2858, "class": 1, "level": 5},
     {"name": "baldezinn", "exp": 645, "class": 1, "level": 3},
-    {"name": "Nynx", "exp": 645, "class": 1, "level": 3}
+    {"name": "Nynx", "exp": 645, "class": 1, "level": 3},
+    {"name": "OldWitch", "exp": 510, "class": 2, "level": 2}
   ],
   "allTime": [
     {"name": "Mithrandir", "points": 99},
