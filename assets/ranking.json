@@ -1,14 +1,15 @@
 {
-  "updatedAt": "16/08/2026 19:54:12",
+  "updatedAt": "16/08/2026 20:24:13",
   "seasonKey": "2026_08",
   "season": [
     {"name": "Asuna", "exp": 65388288, "class": 6, "level": 113},
     {"name": "Mithrandir", "exp": 61662382, "class": 7, "level": 120},
     {"name": "Nightingale", "exp": 686858, "class": 8, "level": 90},
-    {"name": "OldWitch", "exp": 7275, "class": 2, "level": 7},
+    {"name": "OldWitch", "exp": 8213, "class": 2, "level": 7},
     {"name": "Manel", "exp": 4587, "class": 1, "level": 6},
     {"name": "OldWitcher", "exp": 4028, "class": 1, "level": 6},
     {"name": "Guids", "exp": 2858, "class": 1, "level": 5},
+    {"name": "Oldman", "exp": 1020, "class": 3, "level": 3},
     {"name": "baldezinn", "exp": 645, "class": 1, "level": 3},
     {"name": "Nynx", "exp": 645, "class": 1, "level": 3}
   ],
