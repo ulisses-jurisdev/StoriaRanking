@@ -1,9 +1,9 @@
 {
-  "updatedAt": "13/09/2026 23:45:16",
+  "updatedAt": "14/09/2026 00:15:17",
   "seasonKey": "2026_09",
   "season": [
     {"name": "Lolex", "exp": 2727970, "class": 7, "level": 110},
-    {"name": "Songoku", "exp": 1140, "class": 1, "level": 3}
+    {"name": "Songoku", "exp": 14896, "class": 1, "level": 9}
   ],
   "allTime": [
     {"name": "Mithrandir", "points": 148},
