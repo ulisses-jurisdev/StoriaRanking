@@ -1,8 +1,9 @@
 {
-  "updatedAt": "21/09/2026 05:03:45",
+  "updatedAt": "21/09/2026 05:33:45",
   "seasonKey": "2026_09",
   "season": [
     {"name": "Lolex", "exp": 2727970, "class": 7, "level": 110},
+    {"name": "Amazzo", "exp": 1094503, "class": 6, "level": 55},
     {"name": "Songoku", "exp": 14896, "class": 1, "level": 9},
     {"name": "Kronos", "exp": 3567, "class": 2, "level": 5}
   ],
