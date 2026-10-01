@@ -1,25 +1,25 @@
 {
-  "updatedAt": "30/09/2026 23:37:26",
-  "seasonKey": "2026_09",
+  "updatedAt": "01/10/2026 00:07:27",
+  "seasonKey": "2026_10",
   "season": [
-    {"name": "Lolex", "exp": 2727970, "class": 7, "level": 110},
-    {"name": "Amazzo", "exp": 1094503, "class": 6, "level": 55},
-    {"name": "Songoku", "exp": 14896, "class": 1, "level": 9},
-    {"name": "Kronos", "exp": 3567, "class": 2, "level": 5}
+
   ],
   "allTime": [
     {"name": "Mithrandir", "points": 148},
+    {"name": "Lolex", "points": 145},
     {"name": "Asuna", "points": 144},
     {"name": "Nightingale", "points": 143},
     {"name": "Ghostman", "points": 98},
-    {"name": "Lolex", "points": 95},
     {"name": "Arween", "points": 95},
     {"name": "Merchan", "points": 90},
     {"name": "Sabormag0", "points": 87},
     {"name": "GLITS", "points": 87},
     {"name": "ghost", "points": 87},
     {"name": "Neto", "points": 77},
+    {"name": "Amazzo", "points": 49},
+    {"name": "Songoku", "points": 48},
     {"name": "Oldman", "points": 47},
+    {"name": "Kronos", "points": 47},
     {"name": "Sword", "points": 46},
     {"name": "CasaBahia", "points": 46},
     {"name": "OldWitch", "points": 46},
@@ -54,9 +54,6 @@
     {"name": "Darkmg", "points": 35},
     {"name": "NotPuro", "points": 34},
     {"name": "Sartur", "points": 34},
-    {"name": "Abrams", "points": 34},
-    {"name": "Dodis", "points": 33},
-    {"name": "behemouth", "points": 33},
-    {"name": "Mordus", "points": 33}
+    {"name": "Abrams", "points": 34}
   ]
 }
